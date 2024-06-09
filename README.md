@@ -19,6 +19,7 @@
 - Desenvolvedor: Microsoft
 - Características: Extensível, integração com Git, suporte a uma ampla variedade de linguagens, depuração integrada, suporte a snippets, e integração com serviços como Azure.
 - Popularidade: Amplamente adotado devido à sua flexibilidade e vasta coleção de extensões.
+- Requer instalação do Git para controle de versão. Segue um [vídeo](https://www.jetersonlordano.com.br/git-e-github/como-instalar-e-configurar-o-git-no-vscode) para auxiliar na configuraçäo.
 
 ### Passos de Instalação
 1. Passo : Instalaçäo do VS Code. Segue o [link](https://code.visualstudio.com/download) para dowload gratuito.
