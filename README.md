@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Portfólio Pessoal Alura</h1> 
+<h1 align="center">Projeto Portfólio Pessoal </h1> 
 
 ## Sobre o Projeto
 -  Descrição geral do projeto: Projeto desenvolvido através de cursos da Alura para criar meu primeiro portfólio pessoal, contendo informaçðes pessoais e alguns de meus certificados.
